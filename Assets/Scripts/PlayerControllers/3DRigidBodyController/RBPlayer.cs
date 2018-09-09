@@ -1,6 +1,6 @@
 ﻿/************************************************
 Created By:		Ben Cutler
-Company:		Tetricom Studios
+Company:		Tetricom Studios LLC
 Product:		RigidBody Controller
 Date:			10/8/17
 *************************************************/
